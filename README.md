@@ -1,6 +1,15 @@
 # Alp Ergin👋
-## About
-### Benim adım
+This is the home view page to access further information regarding me please choose from the branches which part you are interested in.
+To access the following section go to the given links below:
+
+Projects,
+https://github.com/Alpergin-hisar/Alpergin-hisar/edit/Projects/README.md
+
+CS-50-Course,
+https://github.com/Alpergin-hisar/Alpergin-hisar/edit/CS-50-Course/README.md
+
+Develop-in-Swift,
+https://github.com/Alpergin-hisar/Alpergin-hisar/edit/Develop-in-Swift/README.md
 <!--
 **Alpergin-hisar/Alpergin-hisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

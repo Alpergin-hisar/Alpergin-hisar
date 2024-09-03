@@ -1,6 +1,6 @@
 # Alp Ergin👋
-## About
-### Benim adım
+## Projects
+Alp Ergin currently isn't involved in any projects. To collaborate with him regarding a project pleasue use this email to contact hi
 <!--
 **Alpergin-hisar/Alpergin-hisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

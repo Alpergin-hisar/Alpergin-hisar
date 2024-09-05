@@ -42,9 +42,11 @@ Program design and development
 How to develop a program 
 Developers start investigating the probelm and reflect. Developers must determine the requirement of the program, understand the constraints, understand the user concerns and interests. Some ways they investigate are surveys developer responses.
 Brainstrom-Storyboard-Plan experience-late out the user interface-organize modules-testing strategy
-
-
-
+A runtime error is when a program fails in the midst of running
+Syntax error is a mistake that happens when made a typo
+Logic error is a error that is cause by the proggrammer making mistkae in the algorithm.
+Overflow error is when a program is required to perform a calculation that is outside defined range values.
+Once error identified 
 
 <!--
 **Alpergin-hisar/Alpergin-hisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
